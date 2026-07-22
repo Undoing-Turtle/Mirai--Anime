@@ -32,6 +32,9 @@ A sleek, lightweight anime hub engineered specifically for Android. Built to del
 
 ### 📥 Offline Access
 *   **External Media Downloading:** Save and store content directly to your device for smooth, uninterrupted playback anytime, anywhere.
+> [!IMPORTANT]
+> **iOS & iPadOS Download Notice:**
+> Local video playback on iOS devices requires an external media player app (such as **VLC for Mobile**).
 
 ### ☁️ Cloud Sync & Account
 *   **Cross-Device Progress Tracking:** Powered by a secure Firestore database backend to ensure your viewing history follows you anywhere.
